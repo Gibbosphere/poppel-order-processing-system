@@ -1,0 +1,16 @@
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\bin\Debug\PoppelSystem.exe.config
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\bin\Debug\PoppelSystem.exe
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\bin\Debug\PoppelSystem.pdb
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.csproj.AssemblyReference.cache
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.Properties.Resources.resources
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.csproj.GenerateResource.cache
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.csproj.CoreCompileInputs.cache
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.exe
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.pdb
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.NavbarForm.resources
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.MainMenuForm.resources
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.CustomerDetailsCCForm.resources
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.SelectCustomerMO.resources
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.AddItemsForm.resources
+C:\Users\27636\OneDrive - University of Cape Town\Desktop\University\2nd Year\Second Semester\Information Systems INF2011S\Project\PoppelSystem\PoppelSystem\obj\Debug\PoppelSystem.InventoryForm.resources
